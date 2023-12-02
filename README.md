@@ -1,8 +1,8 @@
 - 👋 Hi, I’m shiva
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning terraform
-- 💞️ I’m looking to collaborate on good people
-- 📫 How to reach me ... my phone
+- 👀 I’m interested in Gaming
+- 🌱 I’m currently learning Terraform
+- 💞️ I’m looking to collaborate on Good people
+- 📫 How to reach me ... My phone
 
 <!---
 Boyshiva03/Boyshiva03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
